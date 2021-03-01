@@ -21,6 +21,7 @@ PRODUCT_PACKAGES += \
     fstab.qcom.ramdisk
 
 PRODUCT_PACKAGES += \
+    OnePlus8WifiOverlay \
     OPlusFrameworksResTarget \
     OPlusSettingsProviderResTarget \
     OPlusSystemUIResTarget
