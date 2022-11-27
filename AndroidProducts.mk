@@ -1,13 +1,13 @@
 #
-# Copyright (C) 2018-2019 The LineageOS Project
+# Copyright (C) 2022 The tequilaOS Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_instantnoodle.mk
+    $(LOCAL_DIR)/tequila_instantnoodle.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_instantnoodle-user \
-    lineage_instantnoodle-userdebug \
-    lineage_instantnoodle-eng
+    tequila_instantnoodle-user \
+    tequila_instantnoodle-userdebug \
+    tequila_instantnoodle-eng
